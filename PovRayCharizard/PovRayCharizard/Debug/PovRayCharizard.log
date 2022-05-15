@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\seanp\source\repos\PovRayCharizard\PovRayCharizard\Source.cpp(53,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seanp\source\repos\PovRayCharizard\PovRayCharizard\Source.cpp(65,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seanp\source\repos\PovRayCharizard\PovRayCharizard\Source.cpp(77,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seanp\source\repos\PovRayCharizard\PovRayCharizard\Source.cpp(89,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seanp\source\repos\PovRayCharizard\PovRayCharizard\Source.cpp(113,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seanp\source\repos\PovRayCharizard\PovRayCharizard\Source.cpp(135,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seanp\source\repos\PovRayCharizard\PovRayCharizard\Source.cpp(158,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seanp\source\repos\PovRayCharizard\PovRayCharizard\Source.cpp(230,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\seanp\source\repos\PovRayCharizard\PovRayCharizard\Source.cpp(35,12): warning C4101: 'CoordVal': unreferenced local variable
+  PovRayCharizard.vcxproj -> C:\Users\seanp\source\repos\PovRayCharizard\Debug\PovRayCharizard.exe
